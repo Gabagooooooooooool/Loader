@@ -18,4 +18,10 @@ Implements ResourcePackLoader by robere2
     - This includes usage of malicous libraries with backdoors / rootkits
 - You are not going to try to change or alter credits in the code, or here
 - You will treat the code accordingly to the AGPLv3 license
-- You are going to inform users about possible security & stability threats of using loader clearly
+- You are going to inform users about possible security & stability threats of using loader clearly. Please use message bellow as a template:
+
+# Why you shouldn't use loader?
+- It opens a way to malicously load code without user's knowledge
+- It greatly reduces stability of the code
+- It slows down run times by A LOT
+- Some libraries may not work properly
