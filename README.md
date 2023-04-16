@@ -4,6 +4,9 @@ Made by Gabagooooooooooool
 Implements ResourcePackLoader by robere2
 
 > This loader serves as a demonstration. By using it you agree to following terms.
+
+> As a demonstration this code loads newest version of Aurora Client
+
 ## Terms of usage
 - You are not going to use this tool for malicious purposes. By malicous purposes we mean
   - Logging or remote uploading of 
