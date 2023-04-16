@@ -1,0 +1,13 @@
+[{
+    "modid": "loader",
+    "name": "§lloader",
+    "description": "§7loader",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Gabagool Development"],
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+}]
